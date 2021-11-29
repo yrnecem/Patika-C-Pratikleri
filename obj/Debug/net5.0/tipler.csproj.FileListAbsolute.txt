@@ -1,0 +1,16 @@
+C:\Users\ideapad y520\Desktop\CSPratik\tipler\bin\Debug\net5.0\tipler.exe
+C:\Users\ideapad y520\Desktop\CSPratik\tipler\bin\Debug\net5.0\tipler.deps.json
+C:\Users\ideapad y520\Desktop\CSPratik\tipler\bin\Debug\net5.0\tipler.runtimeconfig.json
+C:\Users\ideapad y520\Desktop\CSPratik\tipler\bin\Debug\net5.0\tipler.runtimeconfig.dev.json
+C:\Users\ideapad y520\Desktop\CSPratik\tipler\bin\Debug\net5.0\tipler.dll
+C:\Users\ideapad y520\Desktop\CSPratik\tipler\bin\Debug\net5.0\ref\tipler.dll
+C:\Users\ideapad y520\Desktop\CSPratik\tipler\bin\Debug\net5.0\tipler.pdb
+C:\Users\ideapad y520\Desktop\CSPratik\tipler\obj\Debug\net5.0\tipler.csproj.AssemblyReference.cache
+C:\Users\ideapad y520\Desktop\CSPratik\tipler\obj\Debug\net5.0\tipler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ideapad y520\Desktop\CSPratik\tipler\obj\Debug\net5.0\tipler.AssemblyInfoInputs.cache
+C:\Users\ideapad y520\Desktop\CSPratik\tipler\obj\Debug\net5.0\tipler.AssemblyInfo.cs
+C:\Users\ideapad y520\Desktop\CSPratik\tipler\obj\Debug\net5.0\tipler.csproj.CoreCompileInputs.cache
+C:\Users\ideapad y520\Desktop\CSPratik\tipler\obj\Debug\net5.0\tipler.dll
+C:\Users\ideapad y520\Desktop\CSPratik\tipler\obj\Debug\net5.0\ref\tipler.dll
+C:\Users\ideapad y520\Desktop\CSPratik\tipler\obj\Debug\net5.0\tipler.pdb
+C:\Users\ideapad y520\Desktop\CSPratik\tipler\obj\Debug\net5.0\tipler.genruntimeconfig.cache

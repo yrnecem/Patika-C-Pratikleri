@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ideapad y520\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ideapad y520\\.nuget\\packages"
+    ]
+  }
+}
